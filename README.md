@@ -1,0 +1,2 @@
+# Contact_Management_System
+Develop a C program for contact management with following operations: •Define a structure to store information of contacts. •Accept information of person while adding new contact or editing it. •Edit newly added or existing contacts by accepting information from the user. •Display currently added as well as existing contacts. •Search information of person- by name, or by phone number. •Lastly, Delete contacts by entering the name of the contact - newly added, or existing.
